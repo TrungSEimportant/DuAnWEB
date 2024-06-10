@@ -1,4 +1,6 @@
 # DuAnWEB
+WIREFRAME:
+
 Trang chủ của SHOPVT.COM là điểm đến lý tưởng cho những ai đam mê Liên Quân Mobile. Với một loạt các dịch vụ và sản phẩm chất lượng, chúng tôi cam kết mang đến trải nghiệm tốt nhất cho các game thủ. Dưới đây là những tính năng và dịch vụ bạn có thể tìm thấy trên trang chính của chúng tôi:
 
 Dưới đây là giao diện gốc của website chúng tôi:
@@ -102,3 +104,12 @@ _Chọn mục "Thay đổi mật khẩu" hoặc tương tự.
 _Nhập mật khẩu hiện tại và mật khẩu mới.
 _Xác nhận thay đổi và lưu lại mật khẩu mới.
 ![Web_6_Account](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/bf573596-db42-4f5e-bacd-7a4ff0d81769)
+
+PLANNING:
+_Tuần đầu chúng tôi sẽ đi tìm kiếm ý tưởng, chúng tôi có rất nhiều ý tưởng như là tạo trang bán hàng công nghệ, bán account game,... Nhưng chúng tôi đã chọn ra chủ đề để làm là bán account game Liên Quân Mobile.
+
+_Tuần thứ 2 chúng tôi sẽ vẽ wireframe và thiết kế HTML, CSS sao cho giống với bản thiết mà chúng tôi đã vẽ.
+
+_Tuần thứ 3 chúng tôi sẽ code thêm chức năng và thêm vào database để dữ liệu của một trang web chạy ổn định hơn, sau đó chúng tôi sẽ xem vài mẫu UI để design sao cho bắt mắt người dùng.
+
+_Tuần cuối chúng tôi sẽ kiểm tra lại tất cả và đưa bản thiết kế của chúng tôi để trình chiếu.
