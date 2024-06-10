@@ -106,6 +106,7 @@ _Xác nhận thay đổi và lưu lại mật khẩu mới.
 ![Web_6_Account](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/bf573596-db42-4f5e-bacd-7a4ff0d81769)
 
 PLANNING:
+
 _Tuần đầu chúng tôi sẽ đi tìm kiếm ý tưởng, chúng tôi có rất nhiều ý tưởng như là tạo trang bán hàng công nghệ, bán account game,... Nhưng chúng tôi đã chọn ra chủ đề để làm là bán account game Liên Quân Mobile.
 
 _Tuần thứ 2 chúng tôi sẽ vẽ wireframe và thiết kế HTML, CSS sao cho giống với bản thiết mà chúng tôi đã vẽ.
