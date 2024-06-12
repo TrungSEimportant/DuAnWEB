@@ -4,7 +4,8 @@ WIREFRAME:
 Trang chủ của SHOPVT.COM là điểm đến lý tưởng cho những ai đam mê Liên Quân Mobile. Với một loạt các dịch vụ và sản phẩm chất lượng, chúng tôi cam kết mang đến trải nghiệm tốt nhất cho các game thủ. Dưới đây là những tính năng và dịch vụ bạn có thể tìm thấy trên trang chính của chúng tôi:
 
 Dưới đây là giao diện gốc của website chúng tôi:
-![Web_1_Original interface](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/4843fba2-0e3f-46a0-980c-fd2c788d3d31)
+![Web_1_Original interface](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/fe33e4f4-905c-4a27-a048-34b95c083a01)
+
 VÔ CÙNG nhiều chức năng và dịch vụ sẽ được phục vụ và đồng hành trên con đường chinh phục Liên Quân Mobile:
 _Nạp - Ví: Tiện lợi và nhanh chóng nạp ví để mua các sản phẩm yêu thích.
 
@@ -19,16 +20,14 @@ _Tìm Kiếm: Tìm kiếm nhanh chóng các sản phẩm, dịch vụ hoặc th�
 _Danh Mục Acc Liên Quân Mobile: Khám phá một loạt các tài khoản Liên Quân Mobile với đa dạng giá cả và đặc điểm.
 
 Khi bấm vào các account bất kì trong trang chủ nó sẽ đưa chúng ta đến cửa sổ ĐĂNG KÍ TÀI KHOẢN
-![Web_1 1_Register](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/2a8b2a3d-7087-4bd6-b5a1-eb046e983805)
+![Web_1 1_Login](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/d4b0717f-5aa3-4d1f-9729-e875e9b0785d)
 
 Nếu đã có tài khoản trước đó thì từ cửa sổ đăng kí, phía dưới sẽ có chữ "Đăng Nhập ngay" sẽ chuyển chúng ta đến cửa sổ ĐĂNG NHẬP TÀI KHOẢN
-![Web_1 2_Login](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/5f493622-fb0b-480f-8237-65836c69bc55)
-
-Còn nếu đã có tài khoản nhưng lại quên mật khẩu, phía dưới sẽ có chữ "Quên Mật Khẩu ?" sẽ chuyển chúng ta đến cửa sổ ĐẶT LẠI MẬT KHẨU thông qua Email đã đăng kí tài khoản trước đó
-![Web_1 3_Forgotpass](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/ca4b0c74-3ef0-4b8d-9de5-9d155cc7151e)
+![Web_1 2_Register](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/d2072bdb-3106-41fa-979f-76b7ac4a3c66)
 
 Sau khi đăng nhập THÀNH CÔNG sẽ đưa chúng ta về trang chủ ban đầu 
-![Web_2_Interfaceafterlogin](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/e64000b2-8bb8-4a5a-8201-77f660ee7332)
+![Web_2_Interfaceafterlogin](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/cda8c8d6-cd7e-4eb9-a06a-eeec7d0f181b)
+
 
 Danh Mục Acc Liên Quân Mobile là nơi bạn có thể khám phá một loạt các tài khoản Liên Quân Mobile đa dạng về giá cả và đặc điểm, từ những tài khoản tiềm năng cho đến những tài khoản VIP hoàn hảo. Dưới đây là một số đặc điểm chi tiết mà bạn có thể mong đợi khi khám phá danh mục này:
 _Giá cả phong phú: Danh mục Acc Liên Quân Mobile cung cấp một loạt các tài khoản với giá cả phù hợp với mọi túi tiền, từ những tài khoản giá rẻ đến những tài khoản VIP cao cấp.
@@ -40,7 +39,8 @@ _Đặc điểm acc đa dạng: Mỗi tài khoản trong danh mục đều có n
 _Tài khoản VIP: Nếu bạn đang tìm kiếm một tài khoản có mọi thứ, từ số lượng tướng đến skin hiếm, thì danh mục cũng cung cấp các tài khoản VIP đỉnh cao.
 
 _Chất lượng đảm bảo: Tất cả các tài khoản trong danh mục đều được đảm bảo về chất lượng và tính hợp pháp, giúp bạn yên tâm khi mua sắm.
-![Web_2 1_Infor account](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/c9c70582-fec8-4989-91f5-a4bf6b54b248)
+![Web_2 1_Infor account](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/e2c4a2d9-23a2-4a06-9cd3-41680a3278ea)
+
 
 Khi mua một tài khoản game Liên Quân từ các cửa hàng chuyên bán tài khoản, thông tin về tài khoản thường được cung cấp một cách chi tiết và minh bạch để người mua có thể đánh giá và chọn lựa phù hợp. Dưới đây là một số thông tin chi tiết mà bạn có thể mong đợi khi mua một tài khoản Liên Quân:
 
@@ -55,7 +55,8 @@ _Số lượng và loại Skin: Thông tin về số lượng và loại skin c�
 _Cấp độ (Level): Cấp độ hiện tại của tài khoản. Điều này cho biết mức độ phát triển và kinh nghiệm của người chơi trên tài khoản đó.
 
 _Nguyên liệu và tài nguyên trong game: Thông tin về số lượng và loại nguyên liệu, tài nguyên có sẵn trong tài khoản, bao gồm vàng, kinh nghiệm, đá quý, vv.
-![Web_2 2_buyaccount](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/370eb543-2d4e-4452-9a18-8ff3c9a6622a)
+![Web_2 2_buyaccount](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/4028127d-6d0b-486f-8f0d-162697753b09)
+
 
 Khi mua một tài khoản game Liên Quân từ các cửa hàng bán tài khoản, quy trình nạp tiền thường được thực hiện một cách đơn giản và an toàn để đảm bảo sự thuận tiện và tin cậy cho người mua. Dưới đây là mô tả chi tiết về phần nạp tiền khi mua tài khoản:
 
@@ -76,7 +77,8 @@ _Thông tin chi tiết giao dịch: Khi bạn chọn một giao dịch cụ th�
 _Xác nhận giao dịch: Sau khi thanh toán thành công, thông tin về giao dịch sẽ được cập nhật trong phần lịch sử giao dịch. Điều này giúp người mua xác nhận rằng giao dịch đã được thực hiện một cách thành công và tin cậy.
 
 _Tính năng tìm kiếm và sắp xếp: Phần lịch sử giao dịch thường có các tính năng tìm kiếm và sắp xếp giúp người dùng dễ dàng tìm kiếm và lọc các giao dịch theo nhiều tiêu chí khác nhau, như thời gian, số tiền, phương thức thanh toán, vv.
-![Web_4_Purchase history](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/ba577b81-3201-40ff-9697-531aecbf075f)
+![Web_4_Purchase history](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/b23d9afe-b8d0-47e6-9f29-5d254a9602aa)
+
 
 Phần thông tin về người tư vấn dịch vụ trong các cửa hàng bán tài khoản game Liên Quân là một yếu tố quan trọng giúp người mua cảm thấy an tâm và tin tưởng trong quá trình mua sắm và giao dịch. Dưới đây là mô tả chi tiết về phần này:
 
@@ -87,7 +89,8 @@ _Chức vụ và chuyên môn: Các cửa hàng thường cung cấp thông tin 
 _Thông tin liên hệ: Phần này cung cấp thông tin liên hệ chi tiết của người tư vấn, bao gồm địa chỉ email, số điện thoại, hoặc các kênh trò chuyện trực tuyến khác như Skype, Discord, vv. Điều này giúp người mua có thể dễ dàng liên hệ và trò chuyện trực tiếp với người tư vấn khi cần thiết.
 
 _Thời gian làm việc: Thông tin về thời gian làm việc của người tư vấn, bao gồm giờ làm việc và thời gian hỗ trợ trực tuyến, giúp người mua biết được khi nào họ có thể nhận được sự hỗ trợ.
-![Web_5_Support](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/798e0f4f-4b16-4640-89e1-b10a83e6e4e1)
+![Web_5_Support](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/6212be36-fbd6-4c44-9c2d-291967cdf5bd)
+
 
 Khi mua một tài khoản game Liên Quân từ các cửa hàng bán tài khoản, thông tin về tài khoản và chức năng thay đổi mật khẩu là hai phần quan trọng giúp người mua bảo vệ và quản lý tài khoản một cách an toàn. Dưới đây là mô tả chi tiết về phần thông tin tài khoản và chức năng thay đổi mật khẩu:
 
@@ -104,7 +107,8 @@ _Tìm kiếm và truy cập vào phần cài đặt hoặc quản lý tài kho�
 _Chọn mục "Thay đổi mật khẩu" hoặc tương tự.
 _Nhập mật khẩu hiện tại và mật khẩu mới.
 _Xác nhận thay đổi và lưu lại mật khẩu mới.
-![Web_6_Account](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/bf573596-db42-4f5e-bacd-7a4ff0d81769)
+![Web_6_Account](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/59d73600-64ac-4858-a037-5a71408ecd53)
+
 
 PLANNING:
 
