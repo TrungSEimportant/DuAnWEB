@@ -64,7 +64,8 @@ _Phương thức thanh toán: Các cửa hàng thường cung cấp nhiều phư
 _Giao dịch an toàn và bảo mật: Các cửa hàng bán tài khoản thường áp dụng các biện pháp bảo mật để đảm bảo tính an toàn và bảo mật cho giao dịch. Điều này có thể bao gồm mã hóa thông tin cá nhân và thanh toán, cũng như sử dụng các phương thức thanh toán đáng tin cậy.
 
 _Chính sách hoàn trả và bảo hành: Đa số các cửa hàng cung cấp chính sách hoàn trả và bảo hành cho các giao dịch mua tài khoản. Điều này có thể bao gồm việc hoàn lại tiền hoặc đổi lại tài khoản nếu có vấn đề về tính hợp pháp hoặc chất lượng của tài khoản.
-![Web_3_Recharge](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/3f9e97ce-fbb7-48de-bccf-a1924d6b65b0)
+![Web_3_Recharge (1)](https://github.com/TrungSEimportant/DuAnWEB/assets/163483741/6757ca57-7ece-4cd0-8852-31b569176459)
+
 
 Phần lịch sử giao dịch khi mua tài khoản game Liên Quân từ các cửa hàng bán tài khoản là một phần quan trọng giúp người mua có cái nhìn tổng quan về các giao dịch đã thực hiện và quản lý tài khoản một cách hiệu quả. Dưới đây là mô tả chi tiết về phần lịch sử giao dịch:
 
